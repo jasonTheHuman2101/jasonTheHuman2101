@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonTheHuman2101
-- 👀 I’m interested in making useless stuff with no meaning
-- 🌱 I’m currently learning how not to code
+- 👀 I’m interested in making stuff that often has no use to be
+- 🌱 I’m currently learning how to code, by using unorthodox, trial-and-error, head-bashing-on-keyboard methods
 - 📫 How to reach me: extend your arm in my direction. or email me.
 
 <!---
