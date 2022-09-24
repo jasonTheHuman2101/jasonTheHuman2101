@@ -1,7 +1,4 @@
-hello there.
-I am jason.
-i make little projects for fun.;
-they often involve ridiculous amounts of bodging, but they work.
+Hello There, welcome to my GitHub! Most of the stuff here is great, and probably won't work very well, but some of it may be cool!
 
 enjoy it!
 
