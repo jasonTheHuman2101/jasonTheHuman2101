@@ -1,6 +1,9 @@
 Hi! 👋
+
 I'm Jason, and this is my GitHub!
+
 I don't do much dev stuff these days, but when i do it ends up here.
+
 Have fun looking around!
 
 <!---
